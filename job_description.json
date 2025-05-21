@@ -1,0 +1,77 @@
+{
+  "Google": {
+    "title": "Software Engineer",
+    "experience_required": "3 years",
+    "required_skills": ["python", "java", "data structures", "algorithms", "rest api"]
+  },
+  "Microsoft": {
+    "title": "Backend Developer",
+    "experience_required": "2 years",
+    "required_skills": ["c++", "node.js", "sql", "rest api", "microservices"]
+  },
+  "Amazon": {
+    "title": "Cloud Solutions Architect",
+    "experience_required": "4 years",
+    "required_skills": ["python", "java", "aws", "microservices", "rest api"]
+  },
+  "Facebook": {
+    "title": "Frontend Developer",
+    "experience_required": "3 years",
+    "required_skills": ["javascript", "react", "html", "css", "rest api"]
+  },
+  "Netflix": {
+    "title": "Data Engineer",
+    "experience_required": "3 years",
+    "required_skills": ["python", "sql", "data structures", "algorithms", "machine learning"]
+  },
+  "Infosys": {
+    "title": "Full Stack Developer",
+    "experience_required": "2 years",
+    "required_skills": ["html", "css", "javascript", "react", "node.js", "sql"]
+  },
+  "TCS": {
+    "title": "Java Developer",
+    "experience_required": "3 years",
+    "required_skills": ["java", "spring", "sql", "rest api", "data structures"]
+  },
+  "Wipro": {
+    "title": "System Analyst",
+    "experience_required": "5 years",
+    "required_skills": ["sql", "java", "data structures", "algorithms", "rest api"]
+  },
+  "HCL Technologies": {
+    "title": "Automation Tester",
+    "experience_required": "2 years",
+    "required_skills": ["python", "selenium", "java", "rest api", "sql"]
+  },
+  "Tech Mahindra": {
+    "title": "Software Tester",
+    "experience_required": "2 years",
+    "required_skills": ["java", "testng", "rest api", "sql", "selenium"]
+  },
+  "Zoho": {
+    "title": "Product Developer",
+    "experience_required": "2 years",
+    "required_skills": ["c++", "sql", "data structures", "algorithms", "html"]
+  },
+  "Freshworks": {
+    "title": "Frontend Engineer",
+    "experience_required": "1 year",
+    "required_skills": ["html", "css", "javascript", "react", "ui/ux"]
+  },
+  "IBM": {
+    "title": "AI Engineer",
+    "experience_required": "4 years",
+    "required_skills": ["python", "machine learning", "data structures", "algorithms", "sql"]
+  },
+  "Capgemini": {
+    "title": "Technical Consultant",
+    "experience_required": "4 years",
+    "required_skills": ["java", "sql", "rest api", "microservices", "spring"]
+  },
+  "Oracle": {
+    "title": "Database Developer",
+    "experience_required": "3 years",
+    "required_skills": ["sql", "pl/sql", "data structures", "algorithms", "rest api"]
+  }
+}
